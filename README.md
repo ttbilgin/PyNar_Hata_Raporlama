@@ -20,7 +20,7 @@ Pynar Editörü test ederken karşılaştığınız hataları bu reponun sağ ü
 
 Bunların dışında editördeki bütün bileşenlerin herbirini tıklayarak veya sürükleyerek amacına uygun şekilde çalışma durumunu test etmeniz beklenmektedir.
 
-Not: Pynar Editörün chatbot aracılığıyla kod hata düzeltme yeteneği sınırlıdır, karşılaacağınız hataların yaklaşık %65'ini düzeltebilir. Bir kod içinde birden fazla hata varsa bunları düzeltemeyebilir. 
+Not: Pynar Editörün chatbot aracılığıyla kod hata düzeltme yeteneği sınırlıdır, karşılaşacağınız hataların yaklaşık %65'ini düzeltebilir. Bir kod içinde birden fazla hata varsa bunları düzeltemeyebilir. Testlerinizde bu konuyu dikkate alınız. Chatbot aracılığıyla düzeltilemeyen kod örneklerini de hata bildirimi olarak gönderebilirsiniz.
 
 ## 4. Hata Bildirimi formatı
 
