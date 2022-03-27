@@ -6,6 +6,8 @@ Pynar editör Python dili için yazılmış tamamen Türkçe desteki bir python 
 
 > http://www.pynar.org/help/
 
+**Önemli Not: Pynar Editörü Windows işletim sistemine kurarken "Windows Kişisel Bilgisayarınızı Korudu" şeklinde bir uyarı gelebilir, u pencerede "Ek Bilgi" bölümünü tıklayarak "Yine de çalıştır" diyerek kurulumu tamamlayabilirsiniz. Windows için sertifika almadığımız için bu uyarı çıkmaktadır, herhangi bir güvenlik sorunu yoktur.**
+
 ## 2. Hata Bildirimini nereden yapacağım?
 
 Pynar Editörü test ederken karşılaştığınız hataları bu reponun sağ üst tarafındaki "Issues" bölümüne girebilirsiniz. ***Issue girişi yapabilmeniz için bir Github hesabınız olmalıdır.*** Issue ekranında "New Issue" diyerek bildirim yapabilirsiniz. "Title" bölümüne kısa bir başlık veriniz, "Leave a comment" bölümüne ise içeriğinizi yazınız. 3 tür içerik girilebilir, 1)Hata, 2)İyileştirme, 3)Yeni Özellik
