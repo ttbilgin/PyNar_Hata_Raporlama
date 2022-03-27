@@ -2,5 +2,4 @@
 
 Pynar Editörü test ederken karşılaştığınız hataları bu reponun sağ üst tarafındaki "Issues" bölümüne girebilirsiniz.
 
-** Issue girişi yapabilmeniz için bir Github hesabınız olmalıdır. **
-
+***Issue girişi yapabilmeniz için bir Github hesabınız olmalıdır.***
