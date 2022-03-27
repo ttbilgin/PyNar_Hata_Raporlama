@@ -6,7 +6,7 @@ Pynar editör Python dili için yazılmış tamamen Türkçe desteki bir python 
 
 > http://www.pynar.org/help/
 
-**Önemli Not: Pynar Editörü Windows işletim sistemine kurarken "Windows Kişisel Bilgisayarınızı Korudu" şeklinde bir uyarı gelebilir, u pencerede "Ek Bilgi" bölümünü tıklayarak "Yine de çalıştır" diyerek kurulumu tamamlayabilirsiniz. Windows için sertifika almadığımız için bu uyarı çıkmaktadır, herhangi bir güvenlik sorunu yoktur.**
+**Önemli Not: Pynar Editörü Windows işletim sistemine kurarken "Windows Kişisel Bilgisayarınızı Korudu" şeklinde bir uyarı gelebilir, bu pencerede "Ek Bilgi" bölümünü tıklayarak "Yine de çalıştır" diyerek kurulumu tamamlayabilirsiniz. Windows için sertifika almadığımız için bu uyarı çıkmaktadır, herhangi bir güvenlik sorunu yoktur.**
 
 ## 2. Hata Bildirimini nereden yapacağım?
 
