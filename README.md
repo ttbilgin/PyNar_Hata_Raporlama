@@ -10,4 +10,6 @@ Pynar Editörü test ederken karşılaştığınız hataları bu reponun sağ ü
 
 Hata bildirimi yaparken mutlaka şu bilgileri de "Issue" metni içinde bildiriniz.
 
-- Kullandığınız işletim sistemi: Windows 7,8,10,11 veya Ubuntu Linux, Pardus Linux gibi. (**Pynar Editör MacOS sürümünü desteklemez!!**)
+- Kullandığınız işletim sistemi: Windows 7,8,10,11 veya Ubuntu Linux, Pardus Linux gibi. (**Pynar Editör MacOS işletim sistemini desteklemez!!**)
+- Hata hakkında yeterli miktarda açıklama, örneğin ne yaparken ortaya çıkıyor gibi.
+- Mümkünse hata ile ilgili ekran görüntüsü: Windows'un Ekran Alıntısı aracı ile ekran görüntüsü alarak Ctrl+V tuş kombinasyonu ile Issue metni içine yapıltırabilirsiniz. Ekranınınzın tamamnın görüntüsünü almak yerine hatanın oluştuğu bölümün görüntüsünü almak daha çok tercih edilir.
