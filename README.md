@@ -2,7 +2,6 @@
 
 Pynar Editörü test ederken karşılaştığınız hataları bu reponun sağ üst tarafındaki "Issues" bölümüne girebilirsiniz.
 
-![image](https://user-images.githubusercontent.com/854154/160295783-dfd77444-7532-4ea4-b374-6b2889dc2a72.png)
-
+![image](https://user-images.githubusercontent.com/854154/160295821-e29a87a4-63a2-4605-84fa-45dd38e8f710.png)
 
 ***Issue girişi yapabilmeniz için bir Github hesabınız olmalıdır.***
