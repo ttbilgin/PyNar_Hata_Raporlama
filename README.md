@@ -21,10 +21,12 @@ Hata bildirimi yaparken mutlaka şu bilgileri de "Issue" metni içinde bildirini
 
 Pynar Editörde var olan bir özelliğin çalışma biçiminini daha anlaşılır olması için iyileştirme önerebilirsiniz. iyileştirme önerinizi de "Issue" bölümünden girebilirsiniz. İyileştirme öneriniz için de yeterli detay vermeniz beklenir. Gerekirse Paint programıyla yapılmış basit taslak çizimler yükleyebilirsiniz.
 
-- "New Issue" bölümünde "Title" kısmına "İyileştirme:" diyerek başlayınız.
+- Title
+  - "Title" kısmına "İyileştirme:" diyerek başlayınız.
 
 ## 4. Yeni özellik önerisi 
 
 Pynar editörde bulunmayan yeni bir özellik ekleyebilirsiniz. 
 
-- "New Issue" bölümünde "Title" kısmına "Yeni Özellik:" diyerek başlayınız.
+- Title
+  - "Title" kısmına "Yeni Özellik:" diyerek başlayınız.
