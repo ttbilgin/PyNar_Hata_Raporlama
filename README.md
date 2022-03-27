@@ -14,7 +14,11 @@ Pynar Editörü test ederken karşılaştığınız hataları bu reponun sağ ü
 
 ![image](https://user-images.githubusercontent.com/854154/160295821-e29a87a4-63a2-4605-84fa-45dd38e8f710.png)
 
-## 3. Hata Bildirimi formatı
+## 3. Nasıl Test edeceğim ?
+
+1. bölümde linkini verdiğimiz pynar kılavuzdaki bütün adımları tek tek gerçekleştiriniz ve bunları yaparken herhangi sorun yaşamışsanız bu sorunu hata bildirimi olarak 4. bölümde yazdığımız şekilde tanımlayınız.
+
+## 4. Hata Bildirimi formatı
 
 Hata bildirimi yaparken mutlaka şu bilgileri de "Issue" metni içinde bildiriniz.
 
@@ -25,14 +29,14 @@ Hata bildirimi yaparken mutlaka şu bilgileri de "Issue" metni içinde bildirini
   - Hata hakkında yeterli miktarda açıklama, örneğin ne yaparken ortaya çıkıyor gibi.
   - Mümkünse hata ile ilgili ekran görüntüsü: Windows'un Ekran Alıntısı aracı ile ekran görüntüsü alarak Ctrl+V tuş kombinasyonu ile Issue metni içine yapıştırabilirsiniz. Ekranınınzın tamamının görüntüsünü almak yerine hatanın oluştuğu bölümün görüntüsünü almak daha çok tercih edilir.
 
-## 4. İyileştirme önerisi
+## 5. İyileştirme önerisi
 
 Pynar Editörde var olan bir özelliğin çalışma biçiminini daha anlaşılır olması için iyileştirme önerebilirsiniz. iyileştirme önerinizi de "Issue" bölümünden girebilirsiniz. İyileştirme öneriniz için de yeterli detay vermeniz beklenir. Gerekirse Paint programıyla yapılmış basit taslak çizimler yükleyebilirsiniz.
 
 - Title
   - "Title" kısmına "İyileştirme:" diyerek başlayınız.
 
-## 5. Yeni özellik önerisi 
+## 6. Yeni özellik önerisi 
 
 Pynar editörde bulunmayan yeni bir özellik önerebilirsiniz. Öneriniz için de yeterli detay vermeniz beklenir. Gerekirse Paint programıyla yapılmış basit taslak çizimler yükleyebilirsiniz.
 
