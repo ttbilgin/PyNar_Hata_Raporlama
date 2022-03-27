@@ -18,6 +18,10 @@ Pynar Editörü test ederken karşılaştığınız hataları bu reponun sağ ü
 
 1. bölümde linkini verdiğimiz pynar kılavuzdaki bütün adımları tek tek gerçekleştiriniz ve bunları yaparken herhangi sorun yaşamışsanız bu sorunu hata bildirimi olarak 4. bölümde yazdığımız şekilde tanımlayınız.
 
+Bunların dışında editördeki bütün bileşenlerin herbirini tıklayarak veya sürükleyerek amacına uygun şekilde çalışma durumunu test etmeniz beklenmektedir.
+
+Not: Pynar Editörün chatbot aracılığıyla kod hata düzeltme yeteneği sınırlıdır, karşılaacağınız hataların yaklaşık %65'ini düzeltebilir. Bir kod içinde birden fazla hata varsa bunları düzeltemeyebilir. 
+
 ## 4. Hata Bildirimi formatı
 
 Hata bildirimi yaparken mutlaka şu bilgileri de "Issue" metni içinde bildiriniz.
