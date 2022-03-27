@@ -26,7 +26,7 @@ Pynar Editörde var olan bir özelliğin çalışma biçiminini daha anlaşılı
 
 ## 4. Yeni özellik önerisi 
 
-Pynar editörde bulunmayan yeni bir özellik ekleyebilirsiniz. 
+Pynar editörde bulunmayan yeni bir özellik önerebilirsiniz. Öneriniz için de yeterli detay vermeniz beklenir. Gerekirse Paint programıyla yapılmış basit taslak çizimler yükleyebilirsiniz.
 
 - Title
   - "Title" kısmına "Yeni Özellik:" diyerek başlayınız.
