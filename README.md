@@ -46,3 +46,7 @@ Pynar editörde bulunmayan yeni bir özellik önerebilirsiniz. Öneriniz için d
 
 - Title
   - "Title" kısmına "Yeni Özellik:" diyerek başlayınız.
+
+# PyNar Editör ile ilgili bilinen Sorunlar
+ - Chatbot'un hata düzeltme yeteneği sınırlıdır. Bir kod içinde birden fazla hata varsa sadece biri için öneri yapabilir. Ayrıca Mantık hataları veya girinti (Indentation) hatalarını düzeltemez. Genellikle bir python komutunun yanlış veya eksik yazılması şeklindeki hataların önemli bir kısmını düzeltebilir. Bu tür hatalardan düzeltemediği varsa raporlayabilirsiniz.
+ - PyNar Editör bütün hata mesajlarını Türkçe olarak vermelidir, Eğer bazı hata mesajları İngilizce olarak geliyorsa bunu raporlayın.
